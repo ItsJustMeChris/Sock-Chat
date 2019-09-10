@@ -1,0 +1,17 @@
+{
+  "name": "sock-chat",
+  "version": "1.0.0",
+  "description": "Universal web socket chat application, meant to be integrated to any website.",
+  "main": "core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ItsJustMeChris",
+  "license": "MIT",
+  "dependencies": {
+    "ngrok": "^3.2.5",
+    "nodemon": "^1.19.2",
+    "sequelize": "^5.18.4",
+    "socket.io": "^2.2.0"
+  }
+}
